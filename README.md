@@ -23,7 +23,7 @@
   <a href="./CONTRIBUTING.md">贡献指南</a>
 </p>
 
-> **免责声明**  
+> **免责声明**  2
 > 本项目仅供学习与交流使用，请定期备份你的密码库。  
 > 本项目与 Bitwarden 官方无关，请不要向 Bitwarden 官方反馈 NodeWarden 的问题。
 
